@@ -61,6 +61,9 @@
                                                    <li>
                                             <a href="#">San Francisco</a>
                                                    <li>
+                                                    <li>
+                                            <a href="#">Indore</a>
+                                                   <li>
                                                    <li>
                                             <a href="#">New York</a>
                                                    <li>
